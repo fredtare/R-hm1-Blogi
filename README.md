@@ -1,2 +1,21 @@
-# R-hm1-Blogi
-1 rühma blogi
+# Rühm 1-Blogi
+Dylan Michael Jones, Juhan Klaassen, Fredi Tarenõmm, Oskar Aleksander Padu, Taavet-Valter Varkki
+
+Algusenädalad:
+Algusenädalad veetsime katsudes valida projekti teemat. Meil oli suurem segadus projektivaliku kohalt, kuna lisandus uus ja mahlane ELU projekt, millest me olime huvitatud. Pärast plusside ja miinuste kaalumist otsustasime valida ELU projekti, mille raames on meilt oodatud videomängu, mis aitaks populariseerida ülikooli aeda. Meile öeldi, et seda projekti valides on meil võimalik läbida ka ELU aine, ning see osutas kindlasti motiveerivaks faktoriks. 
+
+Kolmas nädal:
+Pärast ELU projekti esindaja valimist selgus, et meie tellijad on ELU projektis osalevad õpilastegrupid. See tähendab, et me peame ootama ELU projektis tegutsevate rühmade rühmatöö arengu jõudmist sinna faasi, kus nad esiteks saavad ise arusaamale kas nad üldse loovad digimängu ja kui loovad siis milline see saab olema. Selgus ka, et ELU ainest saab läbi vaid üks inimene. Kuna meil puudus igasugune kontroll tuleviku üle ja peaegu kõik ained eeldasid, et me oleme juba oma projektiga saanud alustada, siis otsustasime välja mõelda omaenda ideaalse ülikooli aia mängu. Me kasutasime seda fantaasia mängu erinevate tunni+ ja koduülesannete lahendamiseks. 
+
+Neljas nädal.
+Protsesside Kirjeldused ja Kontekstiskeem sai meeskonnatöös sujuvalt loodud ning aitas luua selgemat pilti sellest milline üleüldine projektiga seotud infosüsteem välja peaks nägema ja mis oleksid esialgu vajalikud komponendid ja subjektid. Ent meeskonnaga arutades jõudsime ühisele järeldusele, et ilma kliendiga suhtlemata ja mängu kohta rohkem teada saamata ei ole võimalik kaugemale mõelda. Seda seetõttu, et teed lahknevad ja lahendused lähevad eri suuntes sõltuvalt kliendi visioonist ja soovidest. Ühes asjas aga nõustume, et me sooviksime teha esmalt head mängu, mis läbi mängutegevuse orgaaniliselt edastaks lõppkasutajale soovitud õpiväljundeid.
+
+Esimene koosolek kliendiga suundus sujuvalt. Kui koosoleku alguses oli veel mängu visioon umbmäärane, siis koosoleku jooksul koostöös kliendiga saime pildi selgemaks ning ka kliendi ideed paremini sobitada mängu raamistiku sisse. Me lõime aluse ka mängu disaini dokumendile, mis on mängu keskne dokument mille alusel saame hakata mängu looma. Jõudsime arutada, et kliendi rühm toodab peamised ideed, concept arti (ehk kunsti mis loob mängu visuaali üldiselt) ja meie loome selle põhjal töötava mängu prototüübi. 
+
+Neljandas praktikumis me saime tiimiga kokku ja arutasime pikalt kuidas mängu sobitada Põhi ja Äriprotsessi mudelitele. Me leidsime et meil on keeruline seda teha, kuna suurim osa sellest oleks mäng ise ja diagrammidel see on vaid üks ruudukene. Eriti keeruline saab olema tarkvara testimise osa, kuna mängu testimine on täiesti erinev tarkvara testimisest ning rühmas on ainult üks Informaatik.
+
+Viies ja vahenädal.
+Vahenädala ja sellele eelneva nädala jooksul saadi kokku ELU rühmaga ning arutati mäng uuesti ja täpsemalt läbi ning esitati soovid, mida klient peaks meile andma. Kinnitasime uuesti üle, et kliendi poolt tuleb kontseptsioonid järgmistest asjadest: kunstistiil, tegelased, kes mängus esinevad, maailmad, taimed. Täpsemalt aga ootame nende poolt dialoogi osa. Meie loome siis selle põhjal terve mängu. Sai ka pikalt arutatud kliendiga mängu loomist ning tuleb välja, et nende rühmast tegeleb vaid üks inimene meiega suhtlemisega kuna neil on ainult üks inimene kes on üldse mõnda arvutimängu mänginud. Me saime koosolekul palju arutada mängu disaini üle. Arutelude käigus muutus ka mängu disain drastiiselt. Kohtumise alguses oli kliendi visioon mängust peamiselt interaktiivne raamat, kus olid mingid mängu osad juures nagu liikumine ja hüppamine, ent neid ei kasutatud üldse. Süvitsi mängudisaini üle mõeldes tulid juurde juba platformeritega seotud elemendid, et pakkuda vaheldust lugemisele ning esitada mängjale rohkem ja erinevaid väljakutseid.
+
+Aprilli algus:
+Meeskonnaga koosolekul arutasime, kuidas koolis on asjad piisavalt maha rahunenud, et saaks alustada mängu enda loomisega. Esialgsed sammud oleks versioonikontrolli GIT ülesseadmine. Selle järgneks Godoti projekti alustamine ning esialgsete ja peamiste mehaanikate implementeerimine. Seda seetõttu, et ees ootab protsess mille nimi on "finding the fun". See on katse eksituse meetodil eri asjade proovimine läbi kiirete prototüüpide, et leida kõige lõbusamad mängu stiilid ja -mehhaanikad.
