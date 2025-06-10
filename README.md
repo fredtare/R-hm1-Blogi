@@ -30,3 +30,7 @@ Kurbus tabab rühma! Selgus, et interaktsioonidisaini aines on meil suured puudu
 Aprilli 4. Nädal:
 Sai tõsisemalt ette võetud poolikud Interaktsioonidisaini ülesanded. Rõõmuga võib siinkohal teatada, et oleme rühmaga järjele jõudnud, olgugi, et nädala keskpaigaks pole tööd esitatud. 
 Mängu poole pealt sai ka lisatud esimesed menüüd. Lisaks sai ka 3d modeleeritud kooliaia level ja paar istutuskasti, mis said ka lisatud eraldi levelina.
+
+Maikuu:
+Maikuus nägi mäng palju arendust, kuna meil oli vaja hi-fi prototüübiks vaja midagi esitleda testimiseks. Hifi prototüübi jaoks tegi Taavet mittemängija tegelaste süsteemi, dialoogi süsteemi, questisüsteemi ning kohati kasutajaliidest, Dylan tegeles helieffektide ja inventaari süsteemiga ning Fredi lõi taimedekasvatusüsteemi ja kunsti kahe leveli jaoks. Pärast prototüübi tagasisidestamist ja Interaktsioonidisaini kursuse läbimist läksime meeskonnaga puhkusele, et alustada uuesti tööga praktikumis.
+
