@@ -9,3 +9,9 @@ Kuna meil tekkisid bugid interaktsioonisüsteemiga  siis me viisime interaktsioo
 selle lihtsamaks ja töökindlamaks. Lisaks sai natuke muudetud NPCisid, et nad oleksid taaskasutatavad ja nende identiteeti saaks muuta ning hakkasin 
 pihta dialoogi süsteemi uurimisega. Kuna see tekitas peavalu, siis hakkasin hoopis joonistama NPCdele spraite. Päevad lähevad kuidagi väga kiiresti
 aga see eest saab ka palju tehtud. 
+
+11.06
+Hommikuse püstjalakoosoleku järel sai tehtud puuduolevate tegelaste kunst ära. Selle lõpus sai võetud ette uuesti hirmuäratav dialoogi süsteem. Esimese
+liigutusega otsustasin ma teha mingi muutuse ja vaadata mida see lõhub. Muutuseks sai, et iga tegelane saaks oma dialoogi faili, selle asemel, et kogu
+dialoog oleks ühes json failis. Miskipärast kõik toimis aga iga uue tegelase lisamisega maailmasse kadus teiste dialoog ära. Ülejäänud päev sai selle kallal
+pusitud aga päeva lõpuks selgus, et oli vaja lihtsalt vähendada neid faile kuhu see süsteem oli laiali jaotunud ja kõik hakkas kohe ka tööle (kuidagi)
