@@ -12,3 +12,11 @@ Progress on üpris tugev kogu tiimil. Ma sain lõpetatud popup süsteemi, kus es
 dropdown menüüd. Lisasin nime ja kirjelduse alla 'kasuta' nupu, mille vajutamisel ese kaob inventarist ning ekraanile ilmub teade, et ese kasutatud.
 Parandasin mõned bugid veel, et inventar töötaks korralikult ka väljaspool test levelit. Täna sõin ka siiski kebabi. Ma kardan, et seda teen ma ka homme,
 kuid mingi lahenduse ma välja mõtlen.
+
+Kolmas päev:
+Kolmas päev möödus mõnusalt. Olen enda progressiga rahul. Tegelesin veits taimeistutamisega ja taimepottidega. Tegin taimepottide staatuste(mulllaga, ilma mullata, taimega, taimeta jne) vahetamise sujuvamaks ning lisasin funktsionaalsuse taimepoti mullaga täitmiseks.
+Lisaks lisasin tegelasele ka sprintimise funktsionaalsuse, et ei läheks igavesti aega, et maailmas ringi liikuda. Käisime täna kooli kõrval aasia restorani söömas ning see oli väga hea. Palju maitsvam, kui kebabi koht ehk kebabikohta vast enam ei lähe.
+
+Neljas päev:
+Täna jamasin natuke taimepottidega veel ning tegin terve süsteemi veel sujuvamaks ja parandasin mõned bugid. Hakkasin heliga rohkem tegelema ka. Lisasin tegelase "suremise" heli ning lisasin audioslaiderid seadetemenüüsse. Homme jätkan seadetemenüüde täiendamisega ning hakkan lisama
+taustamuusikat ning veel heliefekte. Mul hakkab godot's ka see click tulema. Teen kõike palju kiiremini ja tean paremini, kust midagi otsida ning kuidas midagi parandada. Käisime jälle aasia restos lõunatamas. Mul tunne, et ma ei hakkagi kodunt süüa kaasa võtma ja käimegi iga lõuna kuskil söömas. Väikese varanduse läheb maksma, kuid toit on maitsev.
