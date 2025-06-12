@@ -15,3 +15,14 @@ Hommikuse püstjalakoosoleku järel sai tehtud puuduolevate tegelaste kunst ära
 liigutusega otsustasin ma teha mingi muutuse ja vaadata mida see lõhub. Muutuseks sai, et iga tegelane saaks oma dialoogi faili, selle asemel, et kogu
 dialoog oleks ühes json failis. Miskipärast kõik toimis aga iga uue tegelase lisamisega maailmasse kadus teiste dialoog ära. Ülejäänud päev sai selle kallal
 pusitud aga päeva lõpuks selgus, et oli vaja lihtsalt vähendada neid faile kuhu see süsteem oli laiali jaotunud ja kõik hakkas kohe ka tööle (kuidagi)
+
+12.06
+Täna hommikul nentisime, et pole palju teha jäänud ja võtsime nõusse lõpetada lõunaks esimene sprint ära. Seega ma veetsin
+hommikupooliku lihvides ja optimeerides veel dialoogi süsteemi paremaks kasutamiseks meie kui arendajate poolt. Lisaks
+ kirjutasin igale vajalikule tegelasele nende dialoogid valmis ja paigutasin need tegelaste külge. Tegelased said ka
+paigutatud ära euroopa tasemele. Lõunasöögiga lõpetasime sprindi ja mõtlesime mängu tuleviku üle järgi. Ma pakkusin välja, 
+et teine sprint võiks keskenduda visuaalide sissetoomiselele ja mängitavusele. Ehk siis teise sprindi lõpus me loodame saada
+mängu, kus sa saad mängida, mängu kinni panna, uuesti avada ja edasi mängida. Lisaks tahame ka lisada paar puuduolevat lüli,
+mis ühendaksid kõik esimesel sprindil loodud mängumehaanikad. 
+Peale seda mõtlesin, et lükkan kiirelt välja feature, kus sa saad suures istutuspotis KAHTE taime istutada. See muutus palju
+keerulisemaks kui oodatud aga ma hetkel katsetan ühte lahendust sõnastikuga.
