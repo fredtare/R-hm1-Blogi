@@ -1,12 +1,13 @@
 09.06
 Hommikul olid sissejuhatavad loengud, rahulik hommik, peab uuesti unerežiimi korda seadma. Klass, mille valisime on väga hubane ja laudade paigutus soosib tiimitööd.
-Projekti poole pealt - mängisin mängu uuesti läbi, vaatasin, kuidas UI ja liikumine toimib. Sellega arvestades lõin nüüd Photoshopiga (loodetavasti) lõpliku UI. Nüüd peab seda kohandama ja mängu sisse viima. Olen peavaluks ja katkiseks koodiks valmis..
+Projekti poole pealt - mängisin mängu uuesti läbi, vaatasin, kuidas UI ja liikumine toimib. Sellega arvestades lõin nüüd Photoshopiga (loodetavasti) lõpliku UI. Nüüd peab seda kohandama ja mängu sisse viima.
+Sain teada, kuidas üldse GDScript välja näeb.
 
 10.06
 Sain esimest korda GDScripti proovida, tekkis palju küsimusi ja probleeme kuid sain lõpuks ikkagi lahendatud. Tegemist päris toreda keeleda, meenutab Pythonit.
-Tekitasin juurde süsteemi, kus saab levelis müntidest üle kõndida, pooleli jäi UI uuendamine terve koguse näitamisega.
+Tekitasin juurde süsteemi, kus saab levelis müntidest üle kõndida, pooleli jäi UI uuendamine terve koguse näitamisega. Sain teada, kuidas tekitada objekte, millel on collision ja nö area, milles saab interakteeruda.
 
 11.06
-Siin tegelesin edasi ja arendasin rahaga seotud koodi. Lõpuks sain käima UI uuendamise ja loendamise, ehk töö läks hästi.
-Alustasin ka mingisuguse poe tekitamisega, tegin sellele 3D mudeli, collisioni ja interaktsiooni, panin selle mängu test levelisse.
+Siin tegelesin edasi ja arendasin rahaga seotud koodi. Lõpuks sain käima UI uuendamise ja loendamise, ehk töö läks hästi. Tänu sellele sain paremini aru, kuidas leida erinevate objektide pathe.
+Alustasin ka mingisuguse poe tekitamisega, tegin sellele 3D mudeli, collisioni ja interaktsiooni, panin selle mängu test levelisse. Sain harjutada 3D mudelleerimist, millega olen väga vähe varem tegelenud.
 Hea on tiimikaaslastega arutada kui midagi on segast, või kui on ideid vaja, abi tuleb igalt poolt. Hea on ka vahepeal enda tugevusi kasutada, täpsemalt disain. Sain ka proovida 3D mudelleerimist, millega on mul natuke kogemust aga hea oleks veel teha.
