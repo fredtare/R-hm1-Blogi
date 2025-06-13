@@ -26,3 +26,14 @@ mängu, kus sa saad mängida, mängu kinni panna, uuesti avada ja edasi mängida
 mis ühendaksid kõik esimesel sprindil loodud mängumehaanikad. 
 Peale seda mõtlesin, et lükkan kiirelt välja feature, kus sa saad suures istutuspotis KAHTE taime istutada. See muutus palju
 keerulisemaks kui oodatud aga ma hetkel katsetan ühte lahendust sõnastikuga.
+
+13.06
+Täna oli kodune päev. Pean nentima, et ma igatsen rühmakaaslastega koos samas ruumis töötamist ja et kodus on enamus päeva
+progress aeglasem. Sellest vaatamata ma sain hakkama pärast mitut katsetust peategelase jalutamis animatsiooniga. Ja isegi
+nii, et ma ise ka rahule jäin. Tuleb nädalavaehtusel teha veel hüppamis ja jooksmis animatsioonid, mis on õnneks lühemad
+ning saab veeta esmaspäeva neid sisse kodeerides. Tarkvarana kasutasin selleks kritat ja pool päeva kulus selleks, et leida
+lahendus bugile, kus krita jookseb kinni, kui ma leiereid või kaadreid tirin. See on mingi linuxi waylandi bug, kuna krita
+pole waylandile veel üle läinud misiganes põhjusel. Aga pärast lõunauinakut ja koeraga jalutamist tuli õhtul energiatuhin
+ja sain animatsiooni enne keskööd lõpetatud. Jõudsin mõelda palju sellele, et olen ju pea kogu projekti kirjutanud ilma 
+LLM AI abita. Esiteks sellepärast, et ükski LLM ei oska gdscripti ning teisalt ka selle pärast, et olen hakkama saanud ilusti
+kasutades Godoti dokumentatsiooni ja nupu ragistamist. Olen üpris rahul oma arengu üle. 
