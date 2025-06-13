@@ -11,3 +11,8 @@ Tekitasin juurde süsteemi, kus saab levelis müntidest üle kõndida, pooleli j
 Siin tegelesin edasi ja arendasin rahaga seotud koodi. Lõpuks sain käima UI uuendamise ja loendamise, ehk töö läks hästi. Tänu sellele sain paremini aru, kuidas leida erinevate objektide pathe.
 Alustasin ka mingisuguse poe tekitamisega, tegin sellele 3D mudeli, collisioni ja interaktsiooni, panin selle mängu test levelisse. Sain harjutada 3D mudelleerimist, millega olen väga vähe varem tegelenud.
 Hea on tiimikaaslastega arutada kui midagi on segast, või kui on ideid vaja, abi tuleb igalt poolt. Hea on ka vahepeal enda tugevusi kasutada, täpsemalt disain. Sain ka proovida 3D mudelleerimist, millega on mul natuke kogemust aga hea oleks veel teha.
+
+12.06
+See päev ei läinud just kõige paremini. Tegelesin enamus ajast selle kallal, et poe süsteemi UI tekiks sel hetkel, kui vaja. Probleemiks oli siis see, et selle UI külge oli kas vale script külge lisatud või hoopis ei olnudki ühtegi scripti.
+See on üpris rumal viga, aga vähemalt edaspidi oskan arvestada sellega, et alati peab ühendused ikka üle vaatama. Oleksin niimoodi sama ülesande kordades kiiremini täitnud. Vähemalt peale selle olukorra edukat laabumist, sain tegeleda veidi ka kunstiga.
+Tunnen, et hakkab keeruliseks minema mängu failide vahel ja nendel ühendustel/pathidel silma peal hoidmine.
