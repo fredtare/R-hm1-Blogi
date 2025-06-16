@@ -19,4 +19,12 @@ Lisaks lisasin tegelasele ka sprintimise funktsionaalsuse, et ei läheks igavest
 
 Neljas päev:
 Täna jamasin natuke taimepottidega veel ning tegin terve süsteemi veel sujuvamaks ja parandasin mõned bugid. Hakkasin heliga rohkem tegelema ka. Lisasin tegelase "suremise" heli ning lisasin audioslaiderid seadetemenüüsse. Homme jätkan seadetemenüüde täiendamisega ning hakkan lisama
-taustamuusikat ning veel heliefekte. Mul hakkab godot's ka see click tulema. Teen kõike palju kiiremini ja tean paremini, kust midagi otsida ning kuidas midagi parandada. Käisime jälle aasia restos lõunatamas. Mul tunne, et ma ei hakkagi kodunt süüa kaasa võtma ja käimegi iga lõuna kuskil söömas. Väikese varanduse läheb maksma, kuid toit on maitsev.
+taustamuusikat ning veel heliefekte. Mul hakkab godot's ka see "click" tulema. Teen kõike palju kiiremini ja tean paremini, kust midagi otsida ning kuidas midagi parandada. Käisime jälle aasia restos lõunatamas. Mul tunne, et ma ei hakkagi kodunt süüa kaasa võtma ja käimegi iga lõuna kuskil söömas. Väikese varanduse läheb maksma, kuid toit on maitsev.
+
+Viies päev:
+Täna tegelesin heliefektidega veel. Hakkasin Audacitys tegema kasutajaliidese nuppudele vajutamise heliefekte. Ma pole varem Audacityt kasutanud eriti nii et ma olin suht üllatunud, kui võimas programm see tegelikult on. Lõpuks me Taavetiga maadlemsime questi süsteemiga tükk aega.
+Saime mõned bugid lahendatud ja süsteemi arendatud, kuid jätkame järgmises nädalas, sest meie pead olid täitsa läbi. Täna me isegi ei käinud lõunat söömas. Elasin oma hommikuste pirukate peal terve päeva ja täitsa ellu jäin.
+
+Kuus päev:
+Uue nädala esimene päev. Me Taavetiga jätkasime questi süsteemi kallal töötamist. See aeglaselt progresseerub, kuid tekitab ikka suurt peavalu. Ma alustasin täna mängu salvestamise süsteemi tegemist. Ma pole sellega varem tegelenud, ehk see natuke keeruline aga saan hakkama.
+Algul panin ta ainult taimepottide seisundid salvestama. Vajutad salvesta nuppu ning ta salvestab igal taimepoti seisundi(Tühi, täidetud mullaga, kasvab lill jne) json faili. See hetkel tundub töötavat aga taimepottide 3D mudelid ei salvestu salvestamisel, pean välja mõtlema kuidas seda teha.
