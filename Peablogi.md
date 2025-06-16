@@ -1,5 +1,6 @@
 # Rühm 1-Blogi
 Dylan Michael Jones, Juhan Klaassen, Fredi Tarenõmm, Oskar Aleksander Padu, Taavet-Valter Varkki
+Blogija: Fredi Tarenõmm
 
 Algusenädalad:
 Algusenädalad veetsime katsudes valida projekti teemat. Meil oli suurem segadus projektivaliku kohalt, kuna lisandus uus ja mahlane ELU projekt, millest me olime huvitatud. Pärast plusside ja miinuste kaalumist otsustasime valida ELU projekti, mille raames on meilt oodatud videomängu, mis aitaks populariseerida ülikooli aeda. Meile öeldi, et seda projekti valides on meil võimalik läbida ka ELU aine, ning see osutas kindlasti motiveerivaks faktoriks. 
@@ -33,4 +34,17 @@ Mängu poole pealt sai ka lisatud esimesed menüüd. Lisaks sai ka 3d modeleerit
 
 Maikuu:
 Maikuus nägi mäng palju arendust, kuna meil oli vaja hi-fi prototüübiks vaja midagi esitleda testimiseks. Hifi prototüübi jaoks tegi Taavet mittemängija tegelaste süsteemi, dialoogi süsteemi, questisüsteemi ning kohati kasutajaliidest, Dylan tegeles helieffektide ja inventaari süsteemiga ning Fredi lõi taimedekasvatusüsteemi ja kunsti kahe leveli jaoks. Pärast prototüübi tagasisidestamist ja Interaktsioonidisaini kursuse läbimist läksime meeskonnaga puhkusele, et alustada uuesti tööga praktikumis.
+
+Praktikum:
+
+Praktikumi esimene nädal:
+Esimese asjana oli vaja meil vaadata oma mängule otsa, et aru saada oma hetkeseisust ning seada endale eesmärgid esimese sprindi jaoks. Me leidsime,
+et meie progress praktika eelselt on olnud väga hea - meil oli vaja ainult natukene pingutada, et kõik peasüsteemid oleksid funktsionaalsed. Seega
+seadsime enda esimeseks eesmärgiks just selle: Saada mängu rändamine ühest levelist teise, iga vajalik NPC peaquesti jaoks, inventaari süsteem, kasutajaliidesele ühtlustatud disain, dialoogid lisada npcdele ja npcdele luua kunst.
+Sprint kulges üpris kiiresti ning lõpetasime selle ära juba neljapäeval. Me saavutasime peaegu kõik eesmärgid ning lükkasime questi süsteemi edasi järgmisesse sprinti kuna see osutus keerulisemaks kui arvatud. Lisaks lisasime juurde ka poesüsteemi, kuna enam ajanappust ei karda.
+
+Neljapäeval seadsime endale ka teise sprindi eesmärgi: Saada valmis mängitav versioon mängust. Aga mida tähendab mängitav? Meie defineerime seda kui nii, et mängu saab käivitada, sa saad ühe questi täita, ühe taime suureks kasvatada ja kahe leveli vahel reisida ning progressi salvestada. Ehk siis kõik on olemaspeale sisu. Lisaks lisasime juurde ka alamtingimuse, et mäng võiks näha välja ka enam-vähem hea ning olemas oleks helieffektid ja animatsioonid.
+
+Üleüldiselt meeskonna motivatsioon oli esimesel nädalal kõrge ning töö sujus edukalt. Osad liikmed olid gdscriptiga nädala alguses vähem kogenud kuid esimese sprindi lõpuks olid nad gdscriptiga juba täitsa sina peal. Meil ei esinenud suuri peavalusid ega probleeme ning koostöö mõjus hästi. Ainus häda oleks tehnikaga mida kasutame: Meil on tihti probleeme sellega kuidas github haldab faile mille kallal 2 või rohkem arendajat tegeleb. Aga midagi elutähtsat see siiani lõhkunud ei ole.
+
 
