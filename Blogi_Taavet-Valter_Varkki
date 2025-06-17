@@ -1,5 +1,6 @@
 09.06
 Tegin tutvust vanema koodiga. Lisasin taime kirjeldusele kasvamise aja, et info oleks selgem. Lisaks võtsin ette dialoogisüsteemi, kus parandasin ühe vea ja tegin koodi korrastust.
+Emotsioon 9/10
 
 10.06
 -
@@ -7,8 +8,18 @@ Tegin tutvust vanema koodiga. Lisasin taime kirjeldusele kasvamise aja, et info 
 11.06
 -
 
-12.06
-tegelesin quest/dialoogi susteemiga, liiga kaua, aga tehtud :D, pea on valus
+12.06  Quest süsteem
+Täna keskendusin questi süsteemi arendamisele. Leidsin probleemi, kus kui kasutaja võttis vastu questi, kuid oli juba eelnevalt vajalikud esemed kogunud, ei osanud süsteem seda õigesti kontrollida. Kogu päeva tegelesin sellega.
+Emotsioonid: 6/10
 
-13.06
-tegus paev, tegelesin quest asjatega, money rewards ja counter asjatega. Lisaks tegin shop susteemi umber (pooleli). Aitasin item korjamisega (et oige arv laheb questi ja ulejaanud inventuuri), suur probleem oli itemi kontrolliga, kas on inventuuris juba olemas, kui on siis vota oige arv ara.
+13.06  Quest süsteem
+Täna jätkasin questi süsteemi kallal töötamist. Suutsin lahendada probleemi, et süsteem kontrollib nüüd, kas kasutajal on juba vajalikud esemed olemas. Kui need on olemas, siis need võetakse ära ja quest uuendatakse vastavalt. Kuid tekkis uus probleem – kui quest ei olnud "active", siis süsteem ei osanud kontrollida, kas mõni ese on ikkagi kuskil veel vajalik. Ülejäänud päev läks selle porbleemi lahenduse otsimisele, kahjuks ei leidnud. Abiks oli ka Dylan, kellega koos proovisime lahendusi leida
+Emotsioonid: 5/10
+
+16.06  Quest süsteem, raha süsteem
+Täna jätkasin ikka questi süsteemi kallal, aga kõik läks valesti. Kõik andis errorit ja ma ei saanud lõpuks aru, mis toimub. Olin päris segaduses ja proovisin igasuguseid lahendusi, aga midagi ei aidanud. Kuna ei viitsinud ainult sellega tegeleda, siis muutsin raha süsteemi natukene. Sain ka teada, et meil oli vanast ajast jäänud raha counter mida keegi ei kasutanud, kustutasin selle ära. Dylan oli jälle abiks questi süsteemiga.
+Emotsioonid: 3/10
+
+17.06  Quest süsteem, shop süsteem
+Täna sain lõpuks questi süsteemi korda! Kõik töötab nüüd nagu peaks ja kõik probleemid seotud questi süsteemiga on lahendatud, loodan. Võtsin ette shop süsteemi. Selle sain tehtud ja see on nüüd ilusti modulaarne ja töötab ilusti. Kui ostad midagi, siis kontrollib süsteem, kas sul on piisavalt raha. Kui on, siis võtab raha ära ja lisab eseme inventuuri. Tekkis aga üks probleem – kui ostsin näiteks muld x2, siis lisas süsteem igakord uue inventuuri sloti (muld x1 ja muld x1, aga peaks olema muld x2 ). Õnneks sain selle lahendatud ja nüüd shop töötab ilma probleemideta, vist. Avastasin ka seda, et questi süsteemis on veel üks viga, see ei suuda kontrollida kas oled tegelasega rääkinud kui quest pole "active". Lahendus peaks olema sarnane sellele probleemile millega tegelesin 12.06-17.06, vähemalt loodan. Eks homme saan teada.
+Emotsioonid: 7/10
