@@ -47,4 +47,9 @@ Neljapäeval seadsime endale ka teise sprindi eesmärgi: Saada valmis mängitav 
 
 Üleüldiselt meeskonna motivatsioon oli esimesel nädalal kõrge ning töö sujus edukalt. Osad liikmed olid gdscriptiga nädala alguses vähem kogenud kuid esimese sprindi lõpuks olid nad gdscriptiga juba täitsa sina peal. Meil ei esinenud suuri peavalusid ega probleeme ning koostöö mõjus hästi. Ainus häda oleks tehnikaga mida kasutame: Meil on tihti probleeme sellega kuidas github haldab faile mille kallal 2 või rohkem arendajat tegeleb. Aga midagi elutähtsat see siiani lõhkunud ei ole.
 
+Praktikumi 2. Nädal:
+
+15.06:
+Esmaspäeval oli veidi vaevalisem päev meil, kus Taavet peamiselt tegeles questi koodi lahtiharutamise ja tööle panemisega. Dylan tegeles ka salvestamisesüsteemiga ja Fredi jändas oma taimekasvatusega. Lõuna paiku pidasime väikese koosoleku eesmärgiga vaadata üle hetkeseis ja mõelda kriitiliselt kuidas jätkata. Me tegime tegevuskava asjadest, millele oleks vaja keskenduda. Need olid: Taimekasvatuse lõpetamine, inventaariga sidumine ja taimedelt saagi saamine, poesüsteemi lõpetamine, questisüsteemi funktsionaalseks saamine, kunst euroopa levelisse, salvestamine, helieffektide ja muusika lisamine. Kahjuks aga oli Oskar malevasuve avamisel ja Juhan oli suutnud raskelt haigeks jääda, seega olime veidi kurvad ja üksikud oma kontoris. Päeva teises pooles olime oma ajud juba täitsa kärssama ajanud ja keegi enam ei saanud aru millestki, seega oli progress veidi aeglasem kui muidu. 
+Õnneks aga suurt pilti vaadates oleme lõpusirgel ja need viimased paar väljakutset on tõepoolest ka viimased. 
 
