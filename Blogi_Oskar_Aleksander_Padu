@@ -16,3 +16,7 @@ Hea on tiimikaaslastega arutada kui midagi on segast, või kui on ideid vaja, ab
 See päev ei läinud just kõige paremini. Tegelesin enamus ajast selle kallal, et poe süsteemi UI tekiks sel hetkel, kui vaja. Probleemiks oli siis see, et selle UI külge oli kas vale script külge lisatud või hoopis ei olnudki ühtegi scripti.
 See on üpris rumal viga, aga vähemalt edaspidi oskan arvestada sellega, et alati peab ühendused ikka üle vaatama. Oleksin niimoodi sama ülesande kordades kiiremini täitnud. Vähemalt peale selle olukorra edukat laabumist, sain tegeleda veidi ka kunstiga.
 Tunnen, et hakkab keeruliseks minema mängu failide vahel ja nendel ühendustel/pathidel silma peal hoidmine.
+
+13.06
+Täna oli uuesti ülesandeks tegeleda sprite'dega. Tundsin end üpris koduselt, tegeledes disaini/kunstiga. Peamine katsumus seisneb selles, et sprite suurus on 16x16 pikslit - iga piksel peab lugema. Raske on anda edasi õige mulje, millise taimega tegemist on.
+Väga hea on tiimikaaslastelt tagasisidet saada. Iga kord kui oli sprite enam-vähem valmis, näitasin seda kaasliikmetele, tihti juhtus see, et tiimikaaslase tagasiside andis palju parema idee kuidas seda veelgi ilusamaks ja arusaadavamaks teha.
