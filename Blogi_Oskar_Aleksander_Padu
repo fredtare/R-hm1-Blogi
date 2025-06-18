@@ -23,3 +23,14 @@ Väga hea on tiimikaaslastelt tagasisidet saada. Iga kord kui oli sprite enam-v�
 
 16.06
 Puudusin, olin malevasuve avamisel.
+
+17.06
+Alustasin UI viimistlemisega, et elemendid oleksid ühise välimusega, mis vastab rohkem sellele visioonile, mis võiks lõppproduktis olla. Otseselt keeruline ei ole, kuid raske on navigeerida kõikide nende UI elementide vahel.
+Järgmine kord mängu arendades peaks rõhuma rohkem materjalide organiseerimisele. Praegune olukord tekitab raskusi nii scriptide kui ka UI elementide töötamise juures.
+Õnneks sel päeval sain ka teada, et olin kõik eelnevalt loodud sprite'd valesti exportinud, ehk panin plaani paika kuidas seda viga parandada.
+
+18.06
+Nagu eelneval päeval planeeritud, hakkasin tegelema sprite'dega, et need õigesti exportida. Sain selle töötluse protsessi käigus teada, et Photopea (Photoshopi tasuta internetis kasutatav vastav programm), ei olegi sama hea.
+Vajalikke valikuid exportimisel üldse ei olnudki. Võtsin kaasa oma läpaka, millel Photoshop peal ning hakkasin oma tehtud vigu parandama. Kahjuks sain teada ka veel ühe Photopea probleemi - see ei olnud kõiki salvestusi läbi viinud, mis tõi kaasa selle,
+et pidin enamused sprite failid poolenisti uuesti joonistama, mis võttis päris palju aega. Protsess oli see-eest seda väärt, kuna tulemus näeb palju parem välja.
+Tegelesin täna ka UI-ga, endiselt on keeruline navigeerida nii paljude failide vahel.
