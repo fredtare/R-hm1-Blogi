@@ -61,3 +61,22 @@ Kõigi progress oli hea ja kõik said oma ettevõetud ülesanded enamvähem teht
 18.06:
 Tänane päev algas koosolekuga kus me otsustasime viimased asjad mis teha on, peamiselt võtta kuulda Inga tagasisidet mängu kohta, parandada buge ning lõpetada poolikud mehhaanikad. Koostöö sujus hästi ja kõikidel oli edukas päev. Osad liikmed jäid ootama küll teiste järgi ning otsustasid kodust lõpetama jääda. kahjuks Juhan on endiselt haige.
 
+19.06
+Täna oli meeskond lõpuks kohal täiskooseisus ja valmis lõpusprindiks. Hommikupoolik kulges viimaseid puuduolevaid asju tehes ning suuremaid ja väiksemaid buge parandades. Poole päeva peal hakkasid Fredi ja Dylan tegelema dokumentatsiooniga, Oskar läks sooritama oma Objektorienteeritud Programmeerimise Eksamit ning Taavet tegeles dialoogisüsteemi käima saamisega. Kella kolme aeg hülgasime mängu kallal töötamise ning alustasime oma blogide ja analüüside kirjutamist. Meeskonnaga loodame teha lõpuviimistlust pärast kella nelja kodust.
+
+Link Dokumentidele:
+https://haddedam.itch.io/taime-hunt
+Link infosüsteemide lõpudokumendile:
+https://docs.google.com/document/d/1BDkfRXdyN9yw_RkryYcbLftqcqY7oEBzZ3bFSxJKzZA/edit?tab=t.0
+Link interaktsioonidisaini lõpudokumendile:
+https://docs.google.com/document/d/1jAC9yghYbPiYXX4Ppe2t4YXlxI7030LmLFVpudddxWY/edit?usp=sharing
+Link testidokumendile:
+https://docs.google.com/document/d/1kzPDr4Lned01qHhm-f9OSTu4SS43BKJAYZjFbgutVSc/edit?usp=sharing
+Link bugide jälgimis excelile:
+https://docs.google.com/spreadsheets/d/1-CIP0RsUVrmFBV8OFfVe2aRebbH4sUwGEmr0LrkOYCo/edit?usp=sharing
+
+Testimise Järelkaja:
+Testimist teostasime arendamise käigus. Iga kord kui lisasime uue mehaanika või funktsiooni, siis selle lisanud arendaja ka testis selle korrektset käitumist. Me märkisime Excelisse ainult bugid, mis me ise avastasime ja mille parandamisega me kohe tegelema ei hakanud. Selline testimismeetod tõestas end panidliku ja aega säästva lahendusena. Me saime endale lubada sellist testimis meetodit ainult seetõttu, et mäng on kinnine süsteem, kus tekkivad bugid ei ole katastroofilised kogu arvutile. Kindlasti on vaja teha üks suurem testimine ka mitte arendajate poolt, kuna see aitab tuvastada vigu mida meie ei märka, eriti kasutuskogemust esmakordse kasutaja jaoks, kes ei tea kuidas mängu peab mängima. 
+
+
+
