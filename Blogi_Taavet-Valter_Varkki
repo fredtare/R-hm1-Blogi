@@ -23,3 +23,8 @@ Emotsioonid: 3/10
 17.06  Quest süsteem, shop süsteem
 Täna sain lõpuks questi süsteemi korda! Kõik töötab nüüd nagu peaks ja kõik probleemid seotud questi süsteemiga on lahendatud, loodan. Võtsin ette shop süsteemi. Selle sain tehtud ja see on nüüd ilusti modulaarne ja töötab ilusti. Kui ostad midagi, siis kontrollib süsteem, kas sul on piisavalt raha. Kui on, siis võtab raha ära ja lisab eseme inventuuri. Tekkis aga üks probleem – kui ostsin näiteks muld x2, siis lisas süsteem igakord uue inventuuri sloti (muld x1 ja muld x1, aga peaks olema muld x2 ). Õnneks sain selle lahendatud ja nüüd shop töötab ilma probleemideta, vist. Avastasin ka seda, et questi süsteemis on veel üks viga, see ei suuda kontrollida kas oled tegelasega rääkinud kui quest pole "active". Lahendus peaks olema sarnane sellele probleemile millega tegelesin 12.06-17.06, vähemalt loodan. Eks homme saan teada.
 Emotsioonid: 7/10
+
+18.06 – NPC dialoogi
+Täna tegelesin NPC dialoogi kirjutamisega ning tegin ka mõned väiksemad muudatused. Nagu varemgi, tuli töö käigus esile mõningaid probleeme questi süsteemiga. Seekord oli mure selles, et pärast questi täitmist ei sulgunud questi jälgimise UI, kuid õnneks sain selle vea kiiresti parandatud. Kahjuks ei jõudnud ma täna veel tegeleda 17. avastatud problemi lahendamisega, see jääb homseks. Kokkuvõttes midagi väga suurt täna ei olnud.
+Emotsioonid: 8/10
+
