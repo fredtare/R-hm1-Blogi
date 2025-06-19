@@ -49,7 +49,7 @@ Neljapäeval seadsime endale ka teise sprindi eesmärgi: Saada valmis mängitav 
 
 Praktikumi 2. Nädal:
 
-15.06:
+16.06:
 Esmaspäeval oli veidi vaevalisem päev meil, kus Taavet peamiselt tegeles questi koodi lahtiharutamise ja tööle panemisega. Dylan tegeles ka salvestamisesüsteemiga ja Fredi jändas oma taimekasvatusega. Lõuna paiku pidasime väikese koosoleku eesmärgiga vaadata üle hetkeseis ja mõelda kriitiliselt kuidas jätkata. Me tegime tegevuskava asjadest, millele oleks vaja keskenduda. Need olid: Taimekasvatuse lõpetamine, inventaariga sidumine ja taimedelt saagi saamine, poesüsteemi lõpetamine, questisüsteemi funktsionaalseks saamine, kunst euroopa levelisse, salvestamine, helieffektide ja muusika lisamine. Kahjuks aga oli Oskar malevasuve avamisel ja Juhan oli suutnud raskelt haigeks jääda, seega olime veidi kurvad ja üksikud oma kontoris. Päeva teises pooles olime oma ajud juba täitsa kärssama ajanud ja keegi enam ei saanud aru millestki, seega oli progress veidi aeglasem kui muidu. 
 Õnneks aga suurt pilti vaadates oleme lõpusirgel ja need viimased paar väljakutset on tõepoolest ka viimased. 
 
