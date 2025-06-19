@@ -39,3 +39,15 @@ Tegelesin täna ka UI-ga, endiselt on keeruline navigeerida nii paljude failide 
 Viimane päev. Sain hommikut alustada  jällegi UI mängu viimisega. Sellega kaasnes ka probleem. Tegelesin tiimikaaslasega samal ajal sama stseeni peal. Tulemuseks oli see, et mõlemad pushisime, kuid pullimise käigus kadusid kõik mu muudatused ära.
 Õnneks teist korda sama UI luua võttis märgatavalt vähem aega kui esimene kord. Täna toimus ka väga palju tiimitööd, et mängu veidi viimistleda ja vigu eemaldada.
 Peale selle tegelesime koos meeskonnaga homseks vajalike materjalide koostamisega. Peamiselt esitlus ja dokumentatsioon. 
+
+KOKKUVÕTTEKS
+Võib öelda, et oli väga edukas suvepraktika, progressi oli palju rohkem kui ette oodata. Skoop ei valgunud liiga laiaks, mis oli hea ja aitas õigel eesmärgil silmad hoida.
+
+KOLM MÕTET, MIS ÕPPISIN:
+Kuidas kasutada GDScripti ja Godot'i ennast.
+Kuidas muuta kasutajaliidese idee pildist töötavaks mängusiseseks dünaamiliseks kasutajaliideseks.
+Kui tähtis on tiimidünaamika ja üksteise seltsi nautimine koostööks, eriti sellisel skaalal projekti puhul.
+
+KÕIGE OLULISEM SÜNDMUS:
+See, et peale kõikide sprite failide loomist, sain teada, et olin need kõik valesti exportinud. Minu õppetund sellest on see, et üle kontrollida ühe või kahe iteratsiooniga, kas kõik on paigas, ENNE, kui teha seda 30 korda valesti.
+Selle tegi samuti meeldejäävaks see, et Photopea ei salvestanud minu sprite.psd muudatusi, mis tõttu pidin enamuse neist uuesti joonistama.
