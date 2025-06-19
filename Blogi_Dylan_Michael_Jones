@@ -1,4 +1,4 @@
-Esimene päev:
+09.06:
 Esimene päev möödus üpris kiirelt ja mõnusalt. Ma tegelesin terve päev põhimõtteliselt mängu inventariga. Juba esimese 5 minuti jooksul sain parandatud ühe
 bugi, mis oli seotud inventarist eseme kasutamisega. Seejärel lisasin väikese menüü, mis näitas eseme nime ning kirjeldust, kui eseme peal paremklõpsu teha
 inventarist. Lisasin kiirelt paar eset juurde(mullahunnik ja seemned), et oleks rohkem, millega testida. Viimaseks hakkasin töötama süsteemi kallal, mille
@@ -6,35 +6,38 @@ puhul ese kaob maast mängija inventari, kui mängija selle peale kõnnib(hetkel
 üles võtta.) ning ekraanile ilmub peale ülesvõtmist väike popup, mis näitab üles võetud eseme nime ning mitu neid üles võeti. Täna jõudsin tehtud eseme
 kadumise osa ning homme lõpetan popup ekraani. Pean ka välja mõtlema, kuidas ma söögiga teen, sest iga päev ei tahaks kuue euro eest kebabi osta.
 
-Teine päev:
+10.06:
 Teise päeva lõpuks olin ma juba rohkem väsinud. Tõenäoliselt, sest täna hommikul polnud loenguid hommikul, vaid päev otsa projekti kallal töötamist.
 Progress on üpris tugev kogu tiimil. Ma sain lõpetatud popup süsteemi, kus eseme nimi tuleb hetkeks ekraanile, kui ese üles võtta. Lisaks parandasin eseme
 dropdown menüüd. Lisasin nime ja kirjelduse alla 'kasuta' nupu, mille vajutamisel ese kaob inventarist ning ekraanile ilmub teade, et ese kasutatud.
 Parandasin mõned bugid veel, et inventar töötaks korralikult ka väljaspool test levelit. Täna sõin ka siiski kebabi. Ma kardan, et seda teen ma ka homme,
 kuid mingi lahenduse ma välja mõtlen.
 
-Kolmas päev:
+11.06:
 Kolmas päev möödus mõnusalt. Olen enda progressiga rahul. Tegelesin veits taimeistutamisega ja taimepottidega. Tegin taimepottide staatuste(mulllaga, ilma mullata, taimega, taimeta jne) vahetamise sujuvamaks ning lisasin funktsionaalsuse taimepoti mullaga täitmiseks.
 Lisaks lisasin tegelasele ka sprintimise funktsionaalsuse, et ei läheks igavesti aega, et maailmas ringi liikuda. Käisime täna kooli kõrval aasia restorani söömas ning see oli väga hea. Palju maitsvam, kui kebabi koht ehk kebabikohta vast enam ei lähe.
 
-Neljas päev:
+12.06:
 Täna jamasin natuke taimepottidega veel ning tegin terve süsteemi veel sujuvamaks ja parandasin mõned bugid. Hakkasin heliga rohkem tegelema ka. Lisasin tegelase "suremise" heli ning lisasin audioslaiderid seadetemenüüsse. Homme jätkan seadetemenüüde täiendamisega ning hakkan lisama
 taustamuusikat ning veel heliefekte. Mul hakkab godot's ka see "click" tulema. Teen kõike palju kiiremini ja tean paremini, kust midagi otsida ning kuidas midagi parandada. Käisime jälle aasia restos lõunatamas. Mul tunne, et ma ei hakkagi kodunt süüa kaasa võtma ja käimegi iga lõuna kuskil söömas. Väikese varanduse läheb maksma, kuid toit on maitsev.
 
-Viies päev:
+13.06:
 Täna tegelesin heliefektidega veel. Hakkasin Audacitys tegema kasutajaliidese nuppudele vajutamise heliefekte. Ma pole varem Audacityt kasutanud eriti nii et ma olin suht üllatunud, kui võimas programm see tegelikult on. Lõpuks me Taavetiga maadlemsime questi süsteemiga tükk aega.
 Saime mõned bugid lahendatud ja süsteemi arendatud, kuid jätkame järgmises nädalas, sest meie pead olid täitsa läbi. Täna me isegi ei käinud lõunat söömas. Elasin oma hommikuste pirukate peal terve päeva ja täitsa ellu jäin.
 
-Kuues päev:
+16.06:
 Uue nädala esimene päev. Me Taavetiga jätkasime questi süsteemi kallal töötamist. See aeglaselt progresseerub, kuid tekitab ikka suurt peavalu. Ma alustasin täna mängu salvestamise süsteemi tegemist. Ma pole sellega varem tegelenud, ehk see natuke keeruline aga saan hakkama.
 Algul panin ta ainult taimepottide seisundid salvestama. Vajutad salvesta nuppu ning ta salvestab igal taimepoti seisundi(Tühi, täidetud mullaga, kasvab lill jne) json faili. See hetkel tundub töötavat aga taimepottide 3D mudelid ei salvestu salvestamisel, pean välja mõtlema kuidas seda teha.
 
-Seitsmes päev:
+17.06:
 Täna tegelesin ainult heliga. Vahepeal aitasin Taavetit ka koodiga aga peamiselt kirjutasin lugusid. Tegin ühe loo aialeveli jaoks põhimõtteliselt valmis ning alustasin Euroopaleveli lugu. Muusika kirjutamine tuleb mulle kergelt, sest olen palju pilli mänginud,
 kuid ma pole liiga palju kasutanud erinevaid programme muusika tegemiseks, ehk see loo tegemise protsess oli natuke aeglasem sellepärast. Ma tegin Bandlabis, kus on üpris intuitiivne ning päris kerge muusikat teha, kuigi see pole nii võimas, kui teised "päris programmid".
 Kodus tegelen veits edasi sellega vast.
 
-Kaheksa päev:
+18.06:
 Täna tegelesin jälle heliga peamiselt. Natuke parandasin aialeveli muusikat ning lõpetasin euroopaleveli muusika. Mõlemad on nüüd mängu sees ning kõik töötab nii nagu peab. Muusika tegemisele on läinud natuke rohkem aega, kui ma oleks lootnud, kuid nüüd on tehtud. 
 Pean nüüd ülejäänud heliefektid tegema. Tegelesin ka mängusisese tekstiga veits. Parandasin mõned kirjavead ja muutsin sõnastust, kuid ma pean seda homme veel tegema. Käisime täna jälle aasiakohas söömas. Mul polnud kõht kuigi tühi ning võtsin lihtsalt mingisuguse mango-jäätise magustoidu.
 Ma olen märganud, et iga päevaga tunnen ma aina vähem nälga ning vajadust süüa.
+
+19.06:
+
