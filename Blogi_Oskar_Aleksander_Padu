@@ -34,3 +34,8 @@ Nagu eelneval päeval planeeritud, hakkasin tegelema sprite'dega, et need õiges
 Vajalikke valikuid exportimisel üldse ei olnudki. Võtsin kaasa oma läpaka, millel Photoshop peal ning hakkasin oma tehtud vigu parandama. Kahjuks sain teada ka veel ühe Photopea probleemi - see ei olnud kõiki salvestusi läbi viinud, mis tõi kaasa selle,
 et pidin enamused sprite failid poolenisti uuesti joonistama, mis võttis päris palju aega. Protsess oli see-eest seda väärt, kuna tulemus näeb palju parem välja.
 Tegelesin täna ka UI-ga, endiselt on keeruline navigeerida nii paljude failide vahel.
+
+19.06
+Viimane päev. Sain hommikut alustada  jällegi UI mängu viimisega. Sellega kaasnes ka probleem. Tegelesin tiimikaaslasega samal ajal sama stseeni peal. Tulemuseks oli see, et mõlemad pushisime, kuid pullimise käigus kadusid kõik mu muudatused ära.
+Õnneks teist korda sama UI luua võttis märgatavalt vähem aega kui esimene kord. Täna toimus ka väga palju tiimitööd, et mängu veidi viimistleda ja vigu eemaldada.
+Peale selle tegelesime koos meeskonnaga homseks vajalike materjalide koostamisega. Peamiselt esitlus ja dokumentatsioon. 
