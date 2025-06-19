@@ -47,3 +47,23 @@ Täna tegin kodusema päeva, et veeta aega oma sõbra Blenderiga. Hommikupoole s
 
 18.06
 Täna hommikul ma andsin edasi Inga tagasiside ning otsustasin tegeleda kiirelt taime seemnete pistmisega mängija inventaari ning lisada puuduolevad asjad UIsse, nagu näiteks kogu aeg ülal ekraaniservas olev kalender. Selle käima panemiseks ma muutsin natuke dateTime.gd koodi, mis seda haldab ning hakkasin jälgima nii hetkepäeva kui ka teistes levelites mööduvaid päevi ning muutsin taimekasvatust haldavat koodi, et taimed kasvaksid järgi aeda taasisenedes. Seda testides selgus aga, et muudatused taimekastides kaovad kuna taimekaste ei salvestata. Ma hakkasin seega kirjutama salvestusüsteemi. Pikka aega kaalusin eri meetodeid ja otsustasin lõpuks Godoti enda süsteemi kasuks, mis salvestab tseenis olevad objektid resursi faili ning laeb neid sealt. Seda implementeerides aga tekkis aga paar probleemi mille lahendamine võttis terve päeva. Peamiselt õigete objektide kättesaamine tseenist ning millal leida õige aeg selle funktsiooni väljakutsumiseks. Ma pusisin pikalt ise aga lõpuks pidin abi küsima Godoti discordi serverist, mille kaudu sain vihjeid kuidas mõlemat lahendada. Kahjuks mäng aga kräshib aia teisel laadimiskorral ilma errorita. Ma uurisin pikalt ja järeldasin, et ehk on see Linuxi probleem mille lahendamine võtab liialt kaua aega. Päeva lõpetasin sellega, et parandasin kirjavigu, buge NPCdega ning muutsin natuke dialoogide tekste. Natuke kahju on küll, et selline kräsh on sees, aga ajapiiranguid tuleb austada.
+
+19.06
+Täna sai tehtud väga palju, hommikupoole ma tegelesin suuremate bugide parandamisega,sain lõpuks korda ka salvestamise tänu Dylani abiga, kelle arvuti andis error message, millest lähtuda. Siis sai lisatud ka kasutuskogemust parandavaid muutusi, kus sul on võimalik esile kutsuda ainult üks menüü ning selle käigus ka lisasin parema süsteemi, mille käigus peategelane ei saa liikuda menüüdes olemise ajal. Ma üritasin ka saada mulda värvi muutma vastavalt oma niiskusele, aga lineaarne interpolatsioon keeldus täna minuga koostööd tegemast, seega see jäi katkiseks. Päeva jooksul sai jagatud ka ülesandeid ning parandatud mitu korda bugi, kus tegelane ei suutnud enam hüpata. Kella kahe aeg ma hakkasin vaikselt dokumentatsiooni ja blogisid korda ajama ning võtsin appi ka Dylani. Tänu tiimi teistele liikmetele saime ka projekti lõpetamise nõuetest täieliku pildi ning asusime nõudeid täitma. Hetkel küll on paus blogide ja muude nõuete täitmiseks aga ma loodan kodus mängu veidi rohkem arendada ning panna üles ka lõplik versioon mängust.
+
+Lõpupostitus:
+Minu kõige olulisem sündmus ei olnud pigem üksik moment vaid pigem need hetked, kus ma avastasin, et ma ei vaja enam LLMi abi programmi kirjutamiseks. Tõepoolest sai kogu projekt minultpoolt kirjutatud kasutamata kordagi mõnda LLM Aid. Selle asemel sain abi puhkepausides, Godoti dokumentatsioonist, foorumitest ning paar korda ka kasutades Godoti discordi serveris teiste nõu. See oli oluline minu jaoks, sest ma astusin Tallinna Ülikooli selleks, et õppida programmeerida, et ma saaksin ise luua arvutimänge. AI mittevajamine see näitas mulle kui kaugele ma olen arenenud oma programmeerimis teekonnal ning annab mulle palju motivatsiooni ning enesekindlust oma tuleviku projektide jaoks.
+
+Meeskonnajuht mänguprojekti juures olles oli mulle uus kogemus, kuna endised tööandjad pole mulle alluvaid usaldanud. Mult tihti küsiti kas nõu või paluti sooritada mõni suurem otsus, mis kujundas kogu mängu tulevikku. Ma leidsin nende otsuste vastuvõtmine ning nende heade ja halbade aspektide kaalumine oli kerge. Seetõttu ei jäänud ka ükski otsus vastuvõtmata. Meeskonna juhtimise kogemus oli positiivne ja ma leian, et meeskond töötas koos suurepäraselt ning üleüldiselt see kogemus oli väga sujuv. Loodan siiralt, et mu meeskonnaliikmetel oli hea töödata nii üksteisega kui ka minu juhendamistel. 
+
+Peamised asjad mida suvepraktikal õppisin:
+Sain esmase kogemuse teiste inimeste koodi muutmisest ja täiustamisest ning nende ja enda koodi integratsioonist programmi kui süsteemi
+Väga palju Godoti hingeelust ning kuidas seal saata infot ühest kohast teise.
+Väärtuslik kogemus kuidas olla tiimijuht mänguprojektis.
+
+Soovitused järgmise aasta üliõpilastele:
+Valige meeskond, kes vastab teie projektile. Meil oli mäng ja meie meeskonna liikmed sisaldasid endas programmeerijaid, muusikuit, graafilist disainerit ja kunstnikut. See koosseis hõlbustas kõvasti mängu loomist.
+Süüa kergeid eineid, et aju töötaks programmi kallal, mitte seedimise kallal.
+Juua palju vett ning leida hea valguse ja heade toolidega klassiruum
+
+Hinnang meeskonnaliikmetele:
