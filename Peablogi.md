@@ -86,7 +86,7 @@ Taavet - 23%
 Dylan - 20%
 Oskar - 17%
 Juhan - 17%
-Fredi - tegeles taimekasvatusega, seadis ülesse algse dokumentatsiooni mängu tegemise jaoks, animatsioonid, 3D, mängukeskne interaktsioonisüsteem ja bugfixing.
+Fredi - tegeles juhtimisega, kliendisuhtlusega, taimekasvatusega, seadis ülesse algse dokumentatsiooni mängu tegemise jaoks, animatsioonid, 3D, mängukeskne interaktsioonisüsteem ja bugfixing.
 Taavet - Quest'i süsteem, NPC'de süsteem, poe süsteem ja algne dialoog, bugfixing.
 Dylan - Inventari süsteem, esemete kasutamine & hoidmine, tekstitoimetaja, Muusika & helid, bugfixing.
 Oskar - Rahasüsteem, kasutajaliides, kasutajaliidese kujundus, sprite'ide tegemine, poe süsteem ja 3D mudel, bugfixing.
