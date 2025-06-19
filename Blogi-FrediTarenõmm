@@ -3,18 +3,21 @@ Täna saime istuda sissejuhatavatel loengutel, tegime oma pesa klassi A-303 ning
 Seejärel pühkisime tolmu maha oma Trellost ning kirjutasime üles asjad mida oleks tore esimese sprindi lõpuks valmis saada. Ma jagasin ülesanded laiali ning iga üks sai midagi oma osakonnast, ehk projekti osast
 millega tema oli tuttav. Projekti raames ma tegelesin taimekasvatusega, lisasin kastmise, väetamise, taimede juurimise, parandasin paar ui bugi ära, ning pärssisin peategelase liikumist sel ajal kui taime kasvatuse
 kasutajaliides on avatud. Lisaks sai ka Taavetiga läbiräägitud ja ühtlustatud süsteemi mida me kasutame taimede haldamiseks. Koostöös ülikoolisiseste kollaborantidega sai ka varastatud üks laud ülikooli S tiivast. 
+Motivatsioon on kõrge ning sai õpitud kuidas teha Signal Tree süsteemi Godotis, et saata laiali vajalikku infot eri programmi osade vahel.
 
 10.06
 Kuna meil tekkisid bugid interaktsioonisüsteemiga  siis me viisime interaktsiooni üle minu disainitud süsteemile ja ma ka käisin oma süsteemi üle ja muutsin
 selle lihtsamaks ja töökindlamaks. Lisaks sai natuke muudetud NPCisid, et nad oleksid taaskasutatavad ja nende identiteeti saaks muuta ning hakkasin 
 pihta dialoogi süsteemi uurimisega. Kuna see tekitas peavalu, siis hakkasin hoopis joonistama NPCdele spraite. Päevad lähevad kuidagi väga kiiresti
 aga see eest saab ka palju tehtud. 
+Motivatsioon oli hea ja kõrge. Sain esmakogemuse täna teiste inimeste koodi muutmisest.
 
 11.06
 Hommikuse püstjalakoosoleku järel sai tehtud puuduolevate tegelaste kunst ära. Selle lõpus sai võetud ette uuesti hirmuäratav dialoogi süsteem. Esimese
 liigutusega otsustasin ma teha mingi muutuse ja vaadata mida see lõhub. Muutuseks sai, et iga tegelane saaks oma dialoogi faili, selle asemel, et kogu
 dialoog oleks ühes json failis. Miskipärast kõik toimis aga iga uue tegelase lisamisega maailmasse kadus teiste dialoog ära. Ülejäänud päev sai selle kallal
 pusitud aga päeva lõpuks selgus, et oli vaja lihtsalt vähendada neid faile kuhu see süsteem oli laiali jaotunud ja kõik hakkas kohe ka tööle (kuidagi)
+Motivatsioon oli kõrge ning täna oli esimene pinnapealne tutvumine .json failidega ja nende kasutamisega.
 
 12.06
 Täna hommikul nentisime, et pole palju teha jäänud ja võtsime nõusse lõpetada lõunaks esimene sprint ära. Seega ma veetsin
@@ -26,6 +29,8 @@ mängu, kus sa saad mängida, mängu kinni panna, uuesti avada ja edasi mängida
 mis ühendaksid kõik esimesel sprindil loodud mängumehaanikad. 
 Peale seda mõtlesin, et lükkan kiirelt välja feature, kus sa saad suures istutuspotis KAHTE taime istutada. See muutus palju
 keerulisemaks kui oodatud aga ma hetkel katsetan ühte lahendust sõnastikuga.
+Päeva lõpus oli veidikene frustratsiooni ja ma kaalsuin kas jätkata topelttaime kasvatus süsteemiga. Täna ma õppisin kui rumal
+on mitte mõelda ette ja teha oma kood modulaarseks, eriti kui on tulevikus plaanid seda modulaarsust ära kasutada.
 
 13.06
 Täna oli kodune päev. Pean nentima, et ma igatsen rühmakaaslastega koos samas ruumis töötamist ja et kodus on enamus päeva
@@ -37,24 +42,33 @@ pole waylandile veel üle läinud misiganes põhjusel. Aga pärast lõunauinakut
 ja sain animatsiooni enne keskööd lõpetatud. Jõudsin mõelda palju sellele, et olen ju pea kogu projekti kirjutanud ilma 
 LLM AI abita. Esiteks sellepärast, et ükski LLM ei oska gdscripti ning teisalt ka selle pärast, et olen hakkama saanud ilusti
 kasutades Godoti dokumentatsiooni ja nupu ragistamist. Olen üpris rahul oma arengu üle. 
+Motivatsioon oli enamus päeva madal aga õhtul koos päikese loojumisega tõusis keskendumine ja ma suutsin järjest animeerida, kuni
+tegelase jalutusanimatsioon oli valmis. Ma õppisin palju animatsioonist tänu Animators Survival Kit raamatule.
 
 16.06
 Nädalavahetusel sai lõpetatud animatsioonid tegelastele ning need ka üles laetud, et olla valmis uueks nädalaks. Üleüldiselt jäin animatsioonidega rahule kuigi kui oleks aega neile pühendada mitu päeva, siis jõuaks ka tulemuseni mis oleks rahuldav. 
 Viimase nädala esimesel päeval oli meil kõigil pead veidi udused ja oli natukene raskem keskenduda. Sellest vaatamata sai lisatud animatsioonid mängu ning ümber kirjutatud suur osa taime kasvamist haldavast koodist. Parandused mis sisse tõin olid peamiselt seotud koodi loetavuse lihtsustamisega ja arvuti piinade vähendamisega. Samuti sai ka oma ajusid laenata tiimikaaslastele, kes vaevlesid terve päev oma programmi küüsis, mis haldas questi ülesandeid ja nende jälgimist. Kusagil kella 2 aeg jõudsin järeldusele, et ajust rohkem midagi tarka ei tule ja kuna sai ennem lõuna aeg arutatud, et oleks vaja kiiremas korras kunsti lisada mängu, siis otsustasin koju suunduda sellega tegelema minna. Kahjuks aga sadasid vanemad uksest sisse koos aiatöödega ning kodus midagi saavutada ei suutnud.
+Motivatsioon oli päris hea kuni lõunasöögi lõpuni, kus mu keha otsustas mind reeta ja toitu seedida, semet aidata mul koodi kirjutada. Tundsin end õhtul üpris halvasti, et ei suutnud õhtul lubatud progressi saavutada.
 
 17.06
 Täna tegin kodusema päeva, et veeta aega oma sõbra Blenderiga. Hommikupoole sai välja löödud eesti stiilis maja, modulaarne aed ja paar kivi. Lõuna aeg jalutamast naastes selgus aga, et mu arvuti ei suutnud hibernatest taastuda. Kahjuks tuli välja, et linuxi blender salvestab vaikimisi automaatselt projektid tmp kausta, mida kustutatakse iga kord kui arvuti taaskäivitub. Seega veetsin pärastlõuna oma hommikust tööd üle tehes. Tänane päev oli üleüldse aeglane ja uimane, ka mu eelabikaasal oli sama kaebus. Sellest vaatamata sai tehtud puid, kive, pöösaid, aedu ja maja ning need euroopa levelisse laiali paigutatud. Lisaks sai tehtud hommikupoole ka uus build, mille seadistamise peale läks omjagu aega, kuna osad pluginnid tekitasid konflikte. 
+Motivatsioon oli jällegi koduse päeva tõttu kuni õhtuni üpris madal. Täna ma õppisin, et ei saa loota rahule ja vaikusele kodus ja targem on võimaluse korral kontoris alati oma töö ära teha.
 
 18.06
 Täna hommikul ma andsin edasi Inga tagasiside ning otsustasin tegeleda kiirelt taime seemnete pistmisega mängija inventaari ning lisada puuduolevad asjad UIsse, nagu näiteks kogu aeg ülal ekraaniservas olev kalender. Selle käima panemiseks ma muutsin natuke dateTime.gd koodi, mis seda haldab ning hakkasin jälgima nii hetkepäeva kui ka teistes levelites mööduvaid päevi ning muutsin taimekasvatust haldavat koodi, et taimed kasvaksid järgi aeda taasisenedes. Seda testides selgus aga, et muudatused taimekastides kaovad kuna taimekaste ei salvestata. Ma hakkasin seega kirjutama salvestusüsteemi. Pikka aega kaalusin eri meetodeid ja otsustasin lõpuks Godoti enda süsteemi kasuks, mis salvestab tseenis olevad objektid resursi faili ning laeb neid sealt. Seda implementeerides aga tekkis aga paar probleemi mille lahendamine võttis terve päeva. Peamiselt õigete objektide kättesaamine tseenist ning millal leida õige aeg selle funktsiooni väljakutsumiseks. Ma pusisin pikalt ise aga lõpuks pidin abi küsima Godoti discordi serverist, mille kaudu sain vihjeid kuidas mõlemat lahendada. Kahjuks mäng aga kräshib aia teisel laadimiskorral ilma errorita. Ma uurisin pikalt ja järeldasin, et ehk on see Linuxi probleem mille lahendamine võtab liialt kaua aega. Päeva lõpetasin sellega, et parandasin kirjavigu, buge NPCdega ning muutsin natuke dialoogide tekste. Natuke kahju on küll, et selline kräsh on sees, aga ajapiiranguid tuleb austada.
+Täna oli motivatsioon üpris kõrge, ma arvan selle igapäevane kõrge olek on seotud klassiruumi hea valgustuse ja tiimi suurepärase koostööga. Ma õppisin, et
+isegi nii lihtsa projektiga ei saa lootma jääda, et see töötab iga süsteemi peal samamoodi ja, et operatsioonisüsteemi erinevustega tuleb alati arvestada.
 
 19.06
 Täna sai tehtud väga palju, hommikupoole ma tegelesin suuremate bugide parandamisega,sain lõpuks korda ka salvestamise tänu Dylani abiga, kelle arvuti andis error message, millest lähtuda. Siis sai lisatud ka kasutuskogemust parandavaid muutusi, kus sul on võimalik esile kutsuda ainult üks menüü ning selle käigus ka lisasin parema süsteemi, mille käigus peategelane ei saa liikuda menüüdes olemise ajal. Ma üritasin ka saada mulda värvi muutma vastavalt oma niiskusele, aga lineaarne interpolatsioon keeldus täna minuga koostööd tegemast, seega see jäi katkiseks. Päeva jooksul sai jagatud ka ülesandeid ning parandatud mitu korda bugi, kus tegelane ei suutnud enam hüpata. Kella kahe aeg ma hakkasin vaikselt dokumentatsiooni ja blogisid korda ajama ning võtsin appi ka Dylani. Tänu tiimi teistele liikmetele saime ka projekti lõpetamise nõuetest täieliku pildi ning asusime nõudeid täitma. Hetkel küll on paus blogide ja muude nõuete täitmiseks aga ma loodan kodus mängu veidi rohkem arendada ning panna üles ka lõplik versioon mängust.
+Täna oli motivatsioon ja energia laes, meil oli ikkagi lõpusprint ja kõik olid motiveeritud loodetud heast hindest kursuse lõpus. Täna vaadates tagasi selle istutuskasti salvestuse bugile, et ei tohi kunagi karta abi küsida, sest probleem võib olla lihtsam kui paistab. 
+Projekti lõpus peab tõdema, et selle loomine oli üpris tore ning ma võib-olla isegi jään selle kallal töötamist igatsema. See on ilmselt sellest, et me ei ole jõudnud veel faasi kus meie mineviku otsused arenduse valusaks teevad.
 
 Lõpupostitus:
-Minu kõige olulisem sündmus ei olnud pigem üksik moment vaid pigem need hetked, kus ma avastasin, et ma ei vaja enam LLMi abi programmi kirjutamiseks. Tõepoolest sai kogu projekt minultpoolt kirjutatud kasutamata kordagi mõnda LLM Aid. Selle asemel sain abi puhkepausides, Godoti dokumentatsioonist, foorumitest ning paar korda ka kasutades Godoti discordi serveris teiste nõu. See oli oluline minu jaoks, sest ma astusin Tallinna Ülikooli selleks, et õppida programmeerida, et ma saaksin ise luua arvutimänge. AI mittevajamine see näitas mulle kui kaugele ma olen arenenud oma programmeerimis teekonnal ning annab mulle palju motivatsiooni ning enesekindlust oma tuleviku projektide jaoks.
+Minu kõige olulisem sündmus ei olnud pigem üksik moment vaid pigem need hetked, kus ma avastasin, et ma ei vaja enam LLMi abi programmi kirjutamiseks. Tõepoolest sai kogu projekt minultpoolt kirjutatud kasutamata kordagi mõnda LLM Aid. Selle asemel sain abi puhkepausides, Godoti dokumentatsioonist, foorumitest ning paar korda ka kasutades Godoti discordi serveris teiste nõu. See oli oluline minu jaoks, sest ma astusin Tallinna Ülikooli selleks, et õppida programmeerida, et ma saaksin ise luua arvutimänge. AI mittevajamine see näitas mulle kui kaugele ma olen arenenud oma programmeerimis teekonnal ning annab mulle palju motivatsiooni ning enesekindlust oma tuleviku projektide jaoks. Lisaks oli positiivne, et kuna ma alati soovitasin luua oma koodi modulaarseks ja skaleeritavaks, siis olgugi, et see võttis rohkem aega oli tulemusena meil alati vähem probleeme.
 
 Meeskonnajuht mänguprojekti juures olles oli mulle uus kogemus, kuna endised tööandjad pole mulle alluvaid usaldanud. Mult tihti küsiti kas nõu või paluti sooritada mõni suurem otsus, mis kujundas kogu mängu tulevikku. Ma leidsin nende otsuste vastuvõtmine ning nende heade ja halbade aspektide kaalumine oli kerge. Seetõttu ei jäänud ka ükski otsus vastuvõtmata. Meeskonna juhtimise kogemus oli positiivne ja ma leian, et meeskond töötas koos suurepäraselt ning üleüldiselt see kogemus oli väga sujuv. Loodan siiralt, et mu meeskonnaliikmetel oli hea töödata nii üksteisega kui ka minu juhendamistel. 
+
 
 Peamised asjad mida suvepraktikal õppisin:
 Sain esmase kogemuse teiste inimeste koodi muutmisest ja täiustamisest ning nende ja enda koodi integratsioonist programmi kui süsteemi
