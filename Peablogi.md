@@ -78,5 +78,20 @@ https://docs.google.com/spreadsheets/d/1-CIP0RsUVrmFBV8OFfVe2aRebbH4sUwGEmr0LrkO
 Testimise Järelkaja:
 Testimist teostasime arendamise käigus. Iga kord kui lisasime uue mehaanika või funktsiooni, siis selle lisanud arendaja ka testis selle korrektset käitumist. Me märkisime Excelisse ainult bugid, mis me ise avastasime ja mille parandamisega me kohe tegelema ei hakanud. Selline testimismeetod tõestas end panidliku ja aega säästva lahendusena. Me saime endale lubada sellist testimis meetodit ainult seetõttu, et mäng on kinnine süsteem, kus tekkivad bugid ei ole katastroofilised kogu arvutile. Kindlasti on vaja teha üks suurem testimine ka mitte arendajate poolt, kuna see aitab tuvastada vigu mida meie ei märka, eriti kasutuskogemust esmakordse kasutaja jaoks, kes ei tea kuidas mängu peab mängima. 
 
+Hinnang:
+
+Hinnang tiimi tööst.
+Fredi - 23%
+Taavet - 23%
+Dylan - 20%
+Oskar - 17%
+Juhan - 17%
+Fredi - tegeles taimekasvatusega, seadis ülesse algse dokumentatsiooni mängu tegemise jaoks, animatsioonid, 3D, mängukeskne interaktsioonisüsteem ja bugfixing.
+Taavet - Quest'i süsteem, NPC'de süsteem, poe süsteem ja algne dialoog, bugfixing.
+Dylan - Inventari süsteem, esemete kasutamine & hoidmine, tekstitoimetaja, Muusika & helid, bugfixing.
+Oskar - Rahasüsteem, kasutajaliides, kasutajaliidese kujundus, sprite'ide tegemine, poe süsteem ja 3D mudel, bugfixing.
+Juhan - Ringi rändamise süsteem ja mängusisene kaart, surma ekraan ja süsteem, tutorial'i süsteem. kasutajaliidest, bugfixing.
+
+
 
 
